@@ -39,5 +39,5 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
   // similar behavior as an HTTP redirect
-window.location.replace("http://vrdenn.tk/firey");
+window.location.replace("https://www.youtube.com/watch?v=Z0DO0XyS8Ko");
 }
